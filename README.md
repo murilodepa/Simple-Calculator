@@ -19,7 +19,7 @@
  * **Observação:** Para desenvolver este projeto, precisa apenas de conhecimentos básicos sobre lógica de programação e linguagem de programação Assembly 8086.
 
 ### Guia de instalação
-Para executar o programa precisa estar instalando o MS-DOS, ou outro programa que compile e execute arquivos *.asm*, estará sendo relatado como executar utilizando o MS-DOS, precisando estar instalando-o no computador, referente a compatibilidade de seu sistema operacional, e deixar no mesmo diretório do arquivo *Calculadora.asm* o *TASM* e o *TLINK*. 
+* Para executar o programa precisa estar instalando o MS-DOS, ou outro programa que compile e execute arquivos *.asm*, estará sendo relatado como executar utilizando o MS-DOS, precisando estar instalando-o no computador, referente a compatibilidade de seu sistema operacional, e deixar no mesmo diretório do arquivo *Calculadora.asm* o *TASM* e o *TLINK*. 
 
 ### Desenvolvimento
 * Git clone https://github.com/murilodepa/Calculadora-simples
