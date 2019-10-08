@@ -16,7 +16,7 @@
  * *TLINK*, arquivo anexado junto com o projeto.
  * *TASM*, arquivo anexado junto com o projeto.
  
- * **Observação:** Para desenvolver este projeto, precisa apenas de conhecimentos básicos sobre lógica de programação e linguagem de programação Assembly 8086.
+   * **Observação:** Para desenvolver este projeto, precisa apenas de conhecimentos básicos sobre lógica de programação e linguagem de programação Assembly 8086.
 
 ### Guia de instalação
 * Para executar o programa precisa estar instalando o MS-DOS, ou outro programa que compile e execute arquivos *.asm*, estará sendo relatado como executar utilizando o MS-DOS, precisando estar instalando-o no computador, referente a compatibilidade de seu sistema operacional, e deixar no mesmo diretório do arquivo *Calculadora.asm* o *TASM* e o *TLINK*. 
@@ -26,7 +26,7 @@
 * Após a instalação do DOS-BOX, inicia-o e monte o primeiro diretório que será utilizado, como pode ser observado no exemplo a seguir num diretório "C". 
 * Para iniciar o diretório, realize o comando: *mount c c:\*
 * Depois digite: *c:*
-* Digite o comando: *cd* até encontrar o diretório com o arquivo clonado do git.asm, contendo na mesma pasta o arquivo *TASM* e *TLINK*, que já está anexado no repositório.
+* Digite o comando: *cd* até encontrar o diretório com o arquivo clonado do git *Calculadora.asm*, contendo na mesma pasta o arquivo *TASM* e *TLINK*, que já está anexado no repositório.
 * Depois de encontrar a pasta, digite _TASM Calculadora.asm_
 * Logo em seguida: *TLINK Calculadora.obj*
 * E por fim: *Calculadora*
