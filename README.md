@@ -32,5 +32,9 @@
 * E por fim: *Calculadora*
 * O projeto assim já estará sendo executado, apresentando um menu para escolher a conta desejada a ser realizada.
 
+### Desenvolvedores
+* Murilo de Paula Araujo.
+* Christopher de Oliveira Souza.
+
 ### Contribuições
 * Contribuições e possíveis melhorias no meu ponto de vista são sempre bem-vindas.
